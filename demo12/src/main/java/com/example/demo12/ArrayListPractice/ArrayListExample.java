@@ -15,5 +15,8 @@ public class ArrayListExample {
 
 
         System.out.println("You have Entered: "+list);
+        System.out.println("You have Entered: "+list);
+        System.out.println("You have Entered: "+list);
+        System.out.println("You have Entered: "+list);
     }
 }
