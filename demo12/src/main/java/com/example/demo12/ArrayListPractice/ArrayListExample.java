@@ -12,6 +12,7 @@ public class ArrayListExample {
         int n = sc.nextInt();
         List<Integer> list = new ArrayList<>();
         list.add(n);
+        System.out.println("Demo Committed");
 
         System.out.println("You have Entered: "+list);
     }
