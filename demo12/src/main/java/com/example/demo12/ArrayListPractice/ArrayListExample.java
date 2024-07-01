@@ -13,6 +13,14 @@ public class ArrayListExample {
         List<Integer> list = new ArrayList<>();
         list.add(n);
         System.out.println("Demo Committed");
+        System.out.println("Demo Committed");
+        System.out.println("Demo Committed");
+        System.out.println("Demo Committed");
+        System.out.println("Demo Committed");
+        System.out.println("Demo Committed");
+        System.out.println("Demo Committed");
+        System.out.println("Demo Committed");
+        System.out.println("Demo Committed");
 
         System.out.println("You have Entered: "+list);
     }
